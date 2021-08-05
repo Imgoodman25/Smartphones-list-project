@@ -9,6 +9,7 @@
 nav{
     background-image: linear-gradient(to right, rgb(11, 11, 129) , rgb(80, 5, 80), red);
     padding: 20px;
+    position: relative;
 }
 nav div{
     display: flex;
